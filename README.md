@@ -1,8 +1,18 @@
 # E-Shop_Wesite 
-I use laravel Framwork, html, css, javascript, myaql, online payment system.
-In this project i create two access for User & admin.
-User login adn see onluy user parts.
-Admin see admin dashboard and add or remove product.
+* This is a replica of E-commers web site. I build this project for see how to make a e-commers site. 
+==========================================================
+* Forntend i uses html, css, and javascript.
+* Backend i uses php, Mysql, and paytm api for payment.
+* I use Laravel Jetstream In this project.
+
+* In jetstrean i build two type of Users 
+	* Customer
+	* Admin
+* For this I make two Models and Controllers. One for user and another for admin.
+* For diference in user and admin i user type in user table. User and Admin have different user_type.  
+* This is a crud web site.
+* For payment system, i use paytm api for payment method. 
+* User can see there cart, oder list, and delivery status.
 
 ## Home Page: 
 <p align="center"><img src="laravel projects\homepage.jpg">
