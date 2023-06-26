@@ -5,7 +5,7 @@ User login adn see onluy user parts.
 Admin see admin dashboard and add or remove product.
 
 ## Home Page: 
-<p align="center"><img src="laravel projects\homepager.jpg">
+<p align="center"><img src="laravel projects\homepage.jpg">
 <br>
 
 ## Product page : 
